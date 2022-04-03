@@ -1,0 +1,67 @@
+/* Styles */
+
+#home-title{
+    background-color: black;
+    color: white;
+    font-size: 36px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.recipe-title{
+    background-color: #f9f98e;
+    color: #8e8ef9;
+    font-size: 36px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.recipe-descript,
+.recipe-para {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.recipe-descript,
+.recipe-link-title{
+    font-size: 24px;
+    background-color: black;
+    color: white;
+}
+
+.recipe-link-title{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+
+#lasagna-img,
+#pasta-img{
+    height: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    display: block;
+}
+
+.bdo{
+    height: auto;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 8px;
+}
+
+p.recipe-option{
+    color: red;
+    text-align: center;
+    font-size: 24px;
+}
+
